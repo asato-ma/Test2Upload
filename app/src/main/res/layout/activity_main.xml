@@ -19,7 +19,7 @@
         android:fontFamily="sans-serif-condensed"
         android:textColor="@android:color/white"
         android:padding="20dp"
-        android:text="Happy Birthday Iwona!" />
+        android:text="Happy Birthday Mr.XYZ!" />
 
     <TextView
         android:layout_width="wrap_content"
@@ -30,6 +30,6 @@
         android:fontFamily="sans-serif-condensed"
         android:textColor="@android:color/white"
         android:padding="20dp"
-        android:text="Od Mariusza :)" />
+        android:text="From Mr.ABC :)" />
 
 </RelativeLayout>
